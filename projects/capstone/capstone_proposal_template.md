@@ -1,13 +1,35 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
-Joe Udacity  
-December 31st, 2050
+Donghun Lee  
+Feb 21st, 2017
 
 ## Proposal
 _(approx. 2-3 pages)_
 
+get some data...
+
+ebay auction price prediction
+pricing?
+
+confidence interval
+
+
+<currentPrice currencyId="USD">44.0</currentPrice>
+<sellingState>EndedWithSales</sellingState>
+
+time ...
+
 ### Domain Background
 _(approx. 1-2 paragraphs)_
+
+
+
+classification — whether it will be sold or not
+whether to find arbitrage opportunities
+
+https://arxiv.org/pdf/1701.08711.pdf
+
+https://engineering.godaddy.com/using-deep-learning-domain-name-valuation/
 
 In this section, provide brief details on the background information of the domain from which the project is proposed. Historical information relevant to the project should be included. It should be clear how or why a problem in the domain can or should be solved. Related academic research should be appropriately cited in this section, including why that research is relevant. Additionally, a discussion of your personal motivation for investigating a particular problem in the domain is encouraged but not required.
 
